@@ -8,7 +8,7 @@
 
 <nav class="bottom-nav">
 	<div class="nav-links">
-		<a href="/Pagina1">1º</a>
+		<a href="/">1º</a>
 		<a href="/Pagina2">2º</a>
 		<a href="/Pagina3">3º</a>
 	</div>

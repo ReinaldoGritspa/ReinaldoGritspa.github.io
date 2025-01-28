@@ -155,7 +155,7 @@
 
         <footer class="footer">
             <p>&copy; 2025 Bem-Estar. Todos os direitos reservados.</p>
-            <p>&copy; Reinaldo R. G. Junior - Informática 4</p>
+            <p>&copy; Reinaldo R. G. Junior - Informática 4B </p>
         </footer>
     </div>
 </body>
